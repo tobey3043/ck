@@ -25,7 +25,7 @@ Organize your project like this:
 ├── data/
 │   ├── raw/              # Original dataset goes here (unchanged)
 │   └── clean/            # Cleaned/processed data
-├── src/                  # Python scripts (e.g., cleaning, analysis, plotting)
+├── src/                  # Python scripts (e.g., cleaning, analysis, plotting). 
 ├── results/              # Output files like figures or tables
 ├── report/               # Markdown summary and written interpretation
 ├── .gitignore            # Files/folders to ignore in version control
