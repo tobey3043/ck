@@ -6,6 +6,13 @@
 
 You are given a dataset named `student_habits_performance.csv`. Your task is to **analyze the association between hours studied per day and exam score** and create a short, reproducible report using good research software engineering practices.
 
+
+You can use your favourite programming language, however, it is recommended you use Python.
+
+
+
+
+
 ---
 
 ## 📁 Step 1: Create a Project Folder Structure
