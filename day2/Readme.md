@@ -12,7 +12,7 @@ You are given a dataset named `student_habits_performance.csv`. Your task is to 
 
 Organize your project like this:
 
-student-habits-project/
+```student-habits-project/
 ├── data/
 │   ├── raw/              # Original dataset goes here (unchanged)
 │   └── clean/            # Cleaned/processed data
@@ -22,7 +22,7 @@ student-habits-project/
 ├── .gitignore            # Files/folders to ignore in version control
 ├── environment.yml       # Conda environment (optional)
 ├── README.md             # Project overview and how to run it
-
+```
 > 📌 **Tip**: Never modify the raw data directly. Always save processed data to `data/clean/`.
 
 ---
