@@ -9,8 +9,10 @@ You are given a dataset named `student_habits_performance.csv`. Your task is to 
 
 You can use your favourite programming language, however, it is recommended you use Python.
 
-
-
+You can run it using Jupyter notebook:
+<a target="_blank" href="https://colab.research.google.com/github/likeajumprope/RSE_Juelich/blob/main/day2/Day2.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 
 ---
