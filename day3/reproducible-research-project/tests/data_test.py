@@ -1,3 +1,4 @@
+import pytest
 def test_clean_data(data):
     assert data.isna().sum().sum() == 0, "Data contains missing values"
     
