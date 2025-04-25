@@ -4,3 +4,5 @@ day3/__pycache__/
 day3/reproducible-research-project/*
 day2/reproducible-research-project/*
 .DS_Store
+add.py
+test_*.py
