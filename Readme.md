@@ -1,6 +1,6 @@
 # Research Software Engineering for PhD Students.
 
-This is the training respository for the JuDocs course for Research Software Engineering (May 6-9, 2025), online.
+This is the training respository for the JuDocs course for Research Software Engineering (May 6-9, 2025), online & at the Forschungszentrum Juelich.
 
 ## All material can be found [here]
 
