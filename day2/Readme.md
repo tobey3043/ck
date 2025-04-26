@@ -29,7 +29,6 @@ Organize your project like this:
 ├── results/              # Output files like figures or tables
 ├── report/               # Markdown summary and written interpretation
 ├── .gitignore            # Files/folders to ignore in version control
-├── environment.yml       # Conda environment (optional)
 ├── README.md             # Project overview and how to run it
 ```
 > 📌 **Tip**: Never modify the raw data directly. Always save processed data to `data/clean/`.
@@ -38,19 +37,16 @@ Organize your project like this:
 
 ## 🧬 Step 2 : Initialize Version Control with Git
 
-This step is certainly necessary when you work with code, but for this exercise you can skip it if you don't feel comfortable. enough with git.
+This step is certainly necessary when you work with code, but for this exercise you can skip it if you don't feel comfortable. enough with git. Open a code cell and execute the command to initalize a git repository.
 
-1. Open your terminal:
-   ```bash
-   cd student-habits-project
-   git init
+` ! command `
 
 ## Create a README.md for your project.
-
+ Create a Readme.md for your project. Make sure to note all necessary information.
 
 
 # Ignore raw data and system files
-create a .gitignore file. 
+Modify the .gitignore file. 
 
 Make sure that the .gitignore ignores the data folder and system files (they might vary from machine to machine).
 
@@ -98,21 +94,11 @@ report/gender_differences_summary.md
 Write your report in markdown. Link your figure into the report. (can be very short, but make sure to link the figure)
 
 ⚙️ Step 7:  Document your environment. 
+Export your code to a requirements.txt file
+Create a venv requirement.txt
 
-Create a Conda Environment or a venv
-	1.	Create an environment.yml file:
+Step 8. Create a make file
 
-name: student-env
-dependencies:
-  - python=3.11
-  - pandas
-  - matplotlib
-  - seaborn
-
-conda env create -f environment.yml
-conda activate student-env
-
-   2. Create a venv requirement.txt
 
 ✅ Step 8: Final Checklist
 	•	Project uses a clean and modular folder structure
