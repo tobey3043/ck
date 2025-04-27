@@ -1,4 +1,4 @@
-# Day 1 Instructions
+# Practicing Github (Day1)
 
 Welcome to Day 1 of our Research Software Engineering course! 
 
