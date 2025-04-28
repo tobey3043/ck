@@ -106,7 +106,7 @@ If needed, install libraries using:
 ## 📊 Step 6.1: Visualize study  habits
 - Create src/plot_mydata.py
 - Use `matplotlib` to visualize study habits
-- Save your figure to results/study_habits_by_gender.png
+- Save your figure to results/study_habits.png
 - Include axis labels, a title, and a legend if needed
 
 > ✍️ Add a docstring to your plotting function and comment the main steps (e.g., load data, create figure, save figure).
@@ -122,7 +122,7 @@ Your report should:
 
 Example of linking a figure in markdown:
 
-`![Study Habits by Gender](../results/study_habits_by_gender.png)`
+`![Study Habits by Gender](../results/study_habits.png)`
 
 ## ⚙️ Step 6:  Document your environment
 Export your code to a requirements.txt file
