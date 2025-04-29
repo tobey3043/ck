@@ -1,4 +1,4 @@
-# 🎉 Welcome to **Course Day 4!**
+#  Welcome to **Course Day 4!**
 
 Today’s theme: **Open Science, Sharing, and Project Quality**  
 You’ll learn to **license**, **version**, **publish**, and **reflect** on your code!
@@ -77,21 +77,3 @@ You’ll learn to **license**, **version**, **publish**, and **reflect** on your
 
 🎤 **Be ready to share your checklist with the full group!**
 
----
-
-## 📢 Why This Matters
-
-- 🛡️ **Licensing** protects you and others.
-- 🧪 **Versioning** makes science reproducible.
-- 🧹 **Good project hygiene** makes your work easier to use, cite, and extend.
-- 🚀 **Publishing** increases the reach and impact of your research.
-
----
-
-> 🧠 _Remember:_  
-> **Good research deserves good software.**  
-> **Good software deserves to be shared well.**
-
----
-
-# 🙌 Let’s build research software that lasts!
