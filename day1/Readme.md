@@ -217,7 +217,8 @@ You will:
 - Go to your own repository (the one your partner submitted the PR to).
 - Open the Pull Request.
 - Click **“Files changed”** to review the diff.
-- Click **“Review changes”** → Approve with a short message, e.g.  
+- Click **“Review changes”** . You can leave a message at the direct location of change by clikcing the + button.
+- Once you are happy with the change → Approve with a short message, e.g.  
   `"Nice touch — approved!"`
 
 ✅ Each partner should **review and approve** the PR from the other.
