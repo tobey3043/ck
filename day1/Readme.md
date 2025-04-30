@@ -2,13 +2,17 @@
 
 Welcome to **Day 1** of our **Research Software Engineering course**!  
 Today, we’ll practice the **foundational skills for collaborating on GitHub**:  
-**Forking, editing, creating issues, and submitting pull requests**.
+**Forking, editing, creating issues, and submitting pull requests, and later, branches**.
 
 Take your time — today is about **learning the process**, not just completing tasks quickly.
 
 ---
 
-## ✅ Step-by-Step Tasks
+<details>
+<summary>Activity 1 - Commiting and pull requests</summary>
+
+
+## ✅ Step-by-Step Tasks: 
 
 ### 1️⃣ Log into your GitHub account
 
@@ -100,3 +104,30 @@ Bonus: GitHub may auto-link your PR and Issue — if not, you can also add
 ---
 
 > 🚀 _This is your first step toward working like a real research software engineer._
+
+</details>
+
+<details>
+<summary>Activity 2 - Branches</summary>
+
+# 🌿 Working with Branches in GitHub (Activiy 2)
+
+In this activity, you’ll practice **creating a branch**, making changes safely in it, and then **merging it back** into your main project.
+
+This is how developers work without stepping on each other’s toes!
+
+---
+
+
+
+## ✅ Step-by-Step Instructions
+
+### 1️⃣ Create a New Branch
+
+> A branch is like a “sandbox” where you can work on changes without affecting the main code.
+
+- Go to your forked repository on GitHub.
+- Click the branch selector dropdown (top-left near where it says `main`).
+- Type a name for your new branch — for example:  
+
+</details>
