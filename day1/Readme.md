@@ -131,3 +131,132 @@ This is how developers work without stepping on each other’s toes!
 - Type a name for your new branch — for example:  
 
 </details>
+
+<details>
+<summary>Activity 3 - Code Reviews</summary>
+
+## 🤝 Code Review in pairs
+
+In this activity, you will practice **collaborative software development** using GitHub — just like real researchers and developers do.
+
+> 🎯 **Goal:** Collaborate on each other’s repositories using forking, pull requests, and peer review.
+
+You will:
+- Work in **pairs**
+- **Fork and edit** each other's repositories
+- Create **pull requests**
+- **Assign and review** contributions
+- Practice **collaborative version control**
+
+---
+
+### 👯 Step-by-Step Instructions
+
+### 1️⃣ Work in Pairs
+
+- Choose a partner.
+- Make sure both of you have a **fork of the course repository** with a personal file (e.g. `YourName.md` in `day1/`).
+
+---
+
+### 2️⃣ Fork Each Other’s Repository
+
+> This simulates contributing to someone else's project.
+
+- Go to your partner’s GitHub repository.
+- Click **“Fork”**.
+- GitHub won’t allow you to fork a repo into the same name space if you already have a repo with the same name.
+  - 🛠 If needed, **rename your fork** temporarily:
+    - Go to **Settings** → Change the **Repository name**.
+
+✅ Now you have a copy of your partner’s repo in your account.
+
+---
+
+### 3️⃣ Make a Change
+
+> Add a friendly contribution to your partner’s repo.
+
+- In your fork of your partner’s repository:
+  - Navigate to the `day1/` folder.
+  - Edit their `YourPartner.md` file.
+  - Add a friendly sentence like:  
+    `"Collaborated with Alex on Day 1 — we both like elephants!"`
+- Commit the change with a clear message, e.g.:  
+  `"Add collaboration note to Alex's file"`
+
+---
+
+### 4️⃣ Create a Pull Request (PR)
+
+> Suggest your changes back to your partner’s repository.
+
+- Go to your fork of their repository.
+- Click **“Compare & pull request”**.
+- Make sure you’re creating a PR **to your partner’s repo**, **not the course repo**.
+- Write a clear title (e.g. `"Collaborative update to Alex.md"`) and message.
+
+✅ This is your suggested contribution.
+
+---
+
+### 5️⃣ Assign Your Partner as a Reviewer
+
+> Good practice: request review before merging.
+
+- On the Pull Request page:
+  - Click the **“Reviewers”** panel (top right).
+  - Assign your partner as the reviewer.
+
+---
+
+### 6️⃣ Review Each Other’s Pull Requests
+
+> Now switch roles: each of you will review the incoming PR.
+
+- Go to your own repository (the one your partner submitted the PR to).
+- Open the Pull Request.
+- Click **“Files changed”** to review the diff.
+- Click **“Review changes”** → Approve with a short message, e.g.  
+  `"Nice touch — approved!"`
+
+✅ Each partner should **review and approve** the PR from the other.
+
+---
+
+### 7️⃣ Merge the Pull Request
+
+> Once reviewed, merge the contribution into your main branch.
+
+- Click **“Merge pull request”** → then **“Confirm merge”**.
+- (Optional) Delete the branch after merging.
+
+✅ You’ve now successfully collaborated like professionals!
+
+---
+
+## 🧠 What This Activity Teaches
+
+- 🔁 Working across repositories
+- 🔧 Making safe changes using forks
+- 🗂 Submitting and reviewing pull requests
+- 🗨 Communicating code changes clearly
+- ✅ Practicing real-world collaboration workflows
+
+---
+
+## 💡 Tips
+
+- Be kind and constructive in review comments.
+- Use clear commit messages and pull request titles.
+- If you're confused, ask — this is a *learning* activity!
+
+---
+
+## ✅ What You’ve Practiced
+
+- ✅ Forking another person's repo
+- ✅ Editing someone else’s file
+- ✅ Creating and assigning a Pull Request
+- ✅ Reviewing and merging contributions
+</details>
