@@ -2,7 +2,8 @@ myproject/
 .vscode/
 day3/__pycache__/
 
-day2/reproducible-research-project/*
+day2/reproducible-research-project_solution_day_2/*
+day3/reproducible-research-project_solution_day_3/*
 .DS_Store
 add.py
 test_*.py
