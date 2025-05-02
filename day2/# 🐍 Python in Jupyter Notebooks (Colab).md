@@ -1,6 +1,8 @@
 # 🐍 Python in Jupyter Notebooks (Colab) Cheat Sheet
 
 
+A fantastic introduction to Google Colab can be found [here](https://colab.research.google.com/)
+
 📄 1. Code Cells vs Text (Markdown) Cells
 - Code Cell → Write and run Python code.
 - Text (Markdown) Cell → Write formatted notes, headings, lists, links, images.
@@ -18,7 +20,15 @@ Alt + Enter
 	•	Run all cells:
 From menu: Runtime → Run all
 
-🛠️ 3. Basic Python Syntax
+📁 3. Editing Files in Colab
+	•	Click files in the File viewer to open and edit.
+	•	Edits are saved automatically in the Colab editor.
+	•	If Colab opens a Git window on save, you can:
+	•	Accept to commit changes to GitHub, or
+	•	Close the window to skip committing.
+
+
+🛠️ 4. Basic Python Syntax
 
 # Variables
 
@@ -40,4 +50,4 @@ for i in range(5):
 
 ````
 
-You can run your function via:
+
