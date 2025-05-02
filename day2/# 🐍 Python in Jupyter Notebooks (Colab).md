@@ -27,8 +27,22 @@ From menu: Runtime → Run all
 	•	Accept to commit changes to GitHub, or
 	•	Close the window to skip committing.
 
+4. Write bash functions in Colab
 
-🛠️ 4. Basic Python Syntax
+Bash functions can be run in Colab using the `!` symbol
+
+Basic bas functions:
+
+`! pwd` : print the current working directory
+`! cd mydir`:  move into directory `mydir`
+`! cd ..` : move one directory up
+`! mkdir mydir` : create a directory `mdir`
+`! touch myfile` : create a file `myfile`
+`! rm myfile`: delete the file `myfile`
+`! rm -r mydir` : delete the directory `mydir`
+
+
+🛠️ 5. Basic Python Syntax
 
 # Variables
 
