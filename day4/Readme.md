@@ -32,7 +32,7 @@ You’ll learn to **license**, **version**, **publish**, and **reflect** on your
 ✅ **Result:** Your project now has a license **and** an official version release!
 
 </details>
----
+
 
 <details>
 <summary>Activity 2 -Archive Your Project and Create a DOI (Zenodo)</summary>
