@@ -6,11 +6,11 @@ Today, we’ll dive into two hands-on exercises to sharpen your collaboration an
 <details>
 <summary>Activity 1 - More Git</summary>
 
-🔧 Exercise 1: More Git
+# 🔧 Exercise 1: More Git
 
-# 🔐 Setting Up SSH for GitHub (Optional but Recommended)
+## 🔐 Setting Up SSH for GitHub (Optional but Recommended)
 
-## 0.1 🔍 Check for Existing SSH Keys
+### 0.1 🔍 Check for Existing SSH Keys
 
 ```bash
 ls -al ~/.ssh
@@ -20,7 +20,7 @@ Look for files like `id_ed25519.pub` or `id_rsa.pub`. If they exist, you might a
 
 ---
 
-## 0.2 🧾 Generate a New SSH Key
+### 0.2 🧾 Generate a New SSH Key
 
 ```bash
 ssh-keygen -t ed25519 -C "your_email@example.com"
@@ -30,7 +30,7 @@ Press Enter to accept the default file location. Optionally, add a passphrase fo
 
 ---
 
-## 0.3 🧠 Add the Key to the SSH Agent
+### 0.3 🧠 Add the Key to the SSH Agent
 
 ```bash
 eval "$(ssh-agent -s)"
@@ -39,7 +39,7 @@ ssh-add ~/.ssh/id_ed25519
 
 ---
 
-## 0.4 📋 Copy the Public Key
+### 0.4 📋 Copy the Public Key
 
 ```bash
 cat ~/.ssh/id_ed25519.pub
@@ -49,7 +49,7 @@ Copy the output.
 
 ---
 
-## 0.5 🌐 Add the SSH Key to GitHub
+### 0.5 🌐 Add the SSH Key to GitHub
 
 1. Go to GitHub → Profile → **Settings**
 2. Navigate to **SSH and GPG Keys**
@@ -58,7 +58,7 @@ Copy the output.
 
 ---
 
-## 0.6 🧪 Test the Connection
+### 0.6 🧪 Test the Connection
 
 ```bash
 ssh -T git@github.com
