@@ -151,7 +151,7 @@ That’s it! You've submitted your contribution.
 </details>
 
 <details>
-<summary>Activity2 - Setting up and organizing a coding project</summary>
+<summary>Activity2 - Setting up and organizing a coding project</summary> 
 
 
 # 🧪 Mini Project (Day 2): Analyzing Study Habits and Performance
@@ -314,3 +314,6 @@ Make sure your project:
 
 </details>
 
+<a target="_blank" href="https://colab.research.google.com/github/likeajumprope/RSE_Juelich/blob/main/day2/Day2.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
