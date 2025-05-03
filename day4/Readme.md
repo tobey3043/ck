@@ -4,6 +4,8 @@ Today’s theme: **Open Science, Sharing, and Project Quality**
 You’ll learn to **license**, **version**, **publish**, and **reflect** on your code!
 
 ---
+<details>
+<summary>Activity 1 - **Create a License & a Version Release</summary>
 
 ## 🛠️ Activity 1: **Create a License & a Version Release**
 
@@ -29,7 +31,11 @@ You’ll learn to **license**, **version**, **publish**, and **reflect** on your
 
 ✅ **Result:** Your project now has a license **and** an official version release!
 
+</details>
 ---
+
+<details>
+<summary>Activity 2 -**Archive Your Project and Create a DOI (Zenodo)**</summary>
 
 ## 🌍 Activity 2: **Archive Your Project and Create a DOI (Zenodo)**
 
@@ -77,3 +83,4 @@ You’ll learn to **license**, **version**, **publish**, and **reflect** on your
 
 🎤 **Be ready to share your checklist with the full group!**
 
+</details>
