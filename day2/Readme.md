@@ -1,4 +1,4 @@
-👋 Welcome to Day 2!
+Welcome to Day 2!
 
 Today, we’ll dive into two hands-on exercises to sharpen your collaboration and coding skills:
 
@@ -151,7 +151,7 @@ That’s it! You've submitted your contribution.
 </details>
 
 <details>
-<summary>Activity2: Setting up and organizing a coding project</summary>
+<summary>Activity2 - Setting up and organizing a coding project</summary>
 
  🧪 Mini Project (Day 2): Analyzing Study Habits and Performance
 
