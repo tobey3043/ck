@@ -9,9 +9,10 @@ You will work inside the provided Jupyter notebook and complete a series of task
 
 
 Carefully read the instructions inside the notebook. 
-<a target="_blank" href="https://colab.research.google.com/github/likeajumprope/RSE_Juelich/blob/main/day3/Day3.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/likeajumprope/RSE_Juelich/blob/main/day3/reproducible-research-project_day_3/notebooks/Day3.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
 
 Fill in the missing code cells where indicated with comments like # TODO: ....
 
