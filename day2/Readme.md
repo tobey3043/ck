@@ -151,7 +151,7 @@ That’s it! You've submitted your contribution.
 </details>
 
 <details>
-<summary>Setting up and organizing a coding project</summary>
+<summary>Activity2: Setting up and organizing a coding project</summary>
 
  🧪 Mini Project (Day 2): Analyzing Study Habits and Performance
 
