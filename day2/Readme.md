@@ -148,7 +148,7 @@ Use the branch name you're working on (e.g., `main`, `dev`, or `feature-branch`)
 
 That’s it! You've submitted your contribution. 
 
-<\details>
+</details>
 
 <details>
 <summary>Setting up and organizing a coding project</summary>
@@ -310,5 +310,5 @@ Make sure your project:
 - Provides a short Markdown report linking the figure
 - Documents the environment (e.g., requirements.txt)
 
-<\details>
+</details>
 
