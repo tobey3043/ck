@@ -101,7 +101,7 @@ If needed, install libraries using:
 
 `!pip install pandas`
 
->  ✨ Tip: Write clear function names and use docstrings to describe what your functions do.
+>  ✨ Tip: Write clear function names and use code comments to describe what your functions do.
 
 ## 📊 Step 6.1: Visualize study  habits
 - Create src/plot_mydata.py
@@ -109,7 +109,7 @@ If needed, install libraries using:
 - Save your figure to results/study_habits.png
 - Include axis labels, a title, and a legend if needed
 
-> ✍️ Add a docstring to your plotting function and comment the main steps (e.g., load data, create figure, save figure).
+> ✍️ Add a code comments to your plotting function and comment the main steps (e.g., load data, create figure, save figure).
 
 ## 📝 Step 7: Write a Summary Report
 
@@ -129,7 +129,7 @@ Export your code to a requirements.txt file
 
 `!pip freeze > requirements.txt`
 
-## Step 7. Create a make file
+## Step 7. Create a make file 
 
 Create a simple Makefile to automate steps such as cleaning, running analysis, and generating figures.
 
