@@ -39,13 +39,13 @@ Careful: your work will not automatically be saved. If you want to save it, you 
 
 # Activity 2: Introduction to Github actions
 
-# Add a github action workflow
+## Add a github action workflow
 
 You’ll find a workflow .yaml file in your Day 3 repository.
 
 This file schedules the creation of an issue at the beginning of the month.
 
-Set the workflow up:
+## Set the workflow up:
 
 1.	On Github, in the root of the course project, create a folder named .github/workflows.
 2.	Move the YAML file into that folder.
