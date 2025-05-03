@@ -4,7 +4,7 @@ Today, we’ll dive into two hands-on exercises to sharpen your collaboration an
 
 
 <details>
-<summary>Activity 1 - More Gite</summary>
+<summary>Activity 1 - More Git</summary>
 
 🔧 Exercise 1: More Git
 
