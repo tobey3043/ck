@@ -147,7 +147,7 @@ plot_data:
 Make sure your project:
 - Uses a clean and modular folder structure
 - Preserves raw data without modification
-- Contains code with comments and clear docstrings
+- Contains code with comments
 - Organizes scripts in src/ with meaningful function names
 - Uses Git with meaningful commit messages
 - Excludes raw data and temporary files using .gitignore
