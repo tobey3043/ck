@@ -153,7 +153,8 @@ That’s it! You've submitted your contribution.
 <details>
 <summary>Activity2 - Setting up and organizing a coding project</summary>
 
- 🧪 Mini Project (Day 2): Analyzing Study Habits and Performance
+
+# 🧪 Mini Project (Day 2): Analyzing Study Habits and Performance
 
 Welcome to your group project! Today you will apply research software engineering principles to a mini analysis project.
 
