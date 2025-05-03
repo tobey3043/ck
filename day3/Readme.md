@@ -8,7 +8,11 @@ You will complete two tasks.
 Activity 1: Introduction to Testing.
 Activity 2: Introduction to Github actions
 
-# Activity 1
+
+<details>
+<summary>Activity 1 - Introduction to Testing</summary>
+
+# Activity 1: Introduction to Testing
 
 You will work inside the provided Jupyter notebook and complete a series of tasks
 
@@ -28,8 +32,12 @@ Carefully read the instructions in the notebook. Here is an overview about what 
 
 Careful: your work will not automatically be saved. If you want to save it, you can `Create a copy on your Google Drive`
 
+</details>
 
-# Activity 2:
+<details>
+<summary>Activity 2: Introduction to Github actions</summary>
+
+# Activity 2: Introduction to Github actions
 
 # Add a github action workflow
 
@@ -46,3 +54,4 @@ Set the workflow up:
 Run the workflow manually:
 4.	Go to the Actions tab on GitHub and run the workflow manually.
 
+</details>
