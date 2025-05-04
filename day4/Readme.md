@@ -56,7 +56,10 @@ You’ll learn to **license**, **version**, **publish**, and **reflect** on your
 
 ✅ **Result:** Your project is now citable and permanently archived!
 
----
+</details>
+
+<details>
+<summary>Activity 3 - Group work</summary>
 
 ## 🤝 Activity 3: **Group Work – What Makes a Good Code Project?**
 
@@ -65,11 +68,16 @@ You’ll learn to **license**, **version**, **publish**, and **reflect** on your
 ### 📝 Steps:
 
 - **Form small groups** (3–6 people).
-- Brainstorm a **Checklist** for:
+
+- One person creates a new Github repository. The other members of the group fork it.
+
+
+- Brainstorm and create a **Checklist** for:
 
   > _"What makes a good code project?"_
 
-💬 **Discuss:**
+💬 **The list could include items such as:**
+- Github/Gitlab
 - Documentation quality
 - Code structure and readability
 - Testing and validation
@@ -80,6 +88,11 @@ You’ll learn to **license**, **version**, **publish**, and **reflect** on your
 
 ⚡ **Question:**  
 > Did we miss anything important during the course?
+
+**Future** 
+- What would you like to learn more about?
+
+Split the work. Work collaboratively on the Checklist. Commit and make pull requests to the main repository.
 
 🎤 **Be ready to share your checklist with the full group!**
 
