@@ -264,7 +264,7 @@ If needed, install libraries using:
 
 >  ✨ Tip: Write clear function names and use code comments to describe what your functions do.
 
-## 📊 Step 6.1: Visualize study  habits
+## 📊 Step 6.2: Visualize study  habits
 - Create a function that visualizes study habits. Do it again, first in the cell of the Jupyter notebook. Then create a file src/plot_mydata.py for it.
 
 In both cases:
@@ -287,12 +287,12 @@ Example of linking a figure in markdown:
 
 `![Study Habits by Gender](../results/study_habits.png)`
 
-## ⚙️ Step 6:  Document your environment
+## ⚙️ Step 8:  Document your environment
 Export your code to a requirements.txt file
 
 `!pip freeze > requirements.txt`
 
-## Step 7. Create a make file 
+## Step 9. Create a make file 
 
 Create a simple Makefile to automate steps such as cleaning, running analysis, and generating figures.
 
@@ -306,7 +306,7 @@ clean_data:
 plot_data:
 	python src/plot_mydata.py`
 
-## ✅ Step 8: Final Checklist
+## ✅ Step 10: Final Checklist
 Make sure your project:
 - Uses a clean and modular folder structure
 - Preserves raw data without modification
