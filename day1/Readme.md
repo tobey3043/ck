@@ -110,25 +110,66 @@ Bonus: GitHub may auto-link your PR and Issue — if not, you can also add
 <details>
 <summary>Activity 2 - Branches</summary>
 
-# 🌿 Working with Branches in GitHub (Activiy 2)
+# 🌿 Working with Branches in GitHub (Activity 2)
 
 In this activity, you’ll practice **creating a branch**, making changes safely in it, and then **merging it back** into your main project.
 
 This is how developers work without stepping on each other’s toes!
 
----
 
 
-
-## ✅ Step-by-Step Instructions
+# ✅ Step-by-Step Instructions
 
 ### 1️⃣ Create a New Branch
 
 > A branch is like a “sandbox” where you can work on changes without affecting the main code.
 
-- Go to your forked repository on GitHub.
-- Click the branch selector dropdown (top-left near where it says `main`).
-- Type a name for your new branch — for example:  
+- Go to your **forked repository** on GitHub.
+- Click the **branch selector dropdown** near the top-left (it likely says `main`).
+- In the search bar, **type a name** for your new branch — for example:  
+  `dev` (short for `development`)
+- Press **Enter** or click **“Create branch: dev”**.
+
+🎉 You’ve now created a new branch!
+
+
+
+### 2️⃣ Make Changes in Your Branch
+
+- On GitHub, navigate to a file (e.g., `README.md`) in your **new branch**.
+- Click the **pencil icon** (✏️) at the top right to edit the file.
+- Make a small change — for example, add your name or a project description.
+- Scroll down and write a **commit message** like:  
+  `Updated README with my name`
+- Make sure **“Commit directly to the \`feature-readme-update\` branch”** is selected.
+- Click **Commit changes**.
+
+✅ You’ve now made changes **safely in your branch**.
+
+
+
+### 3️⃣ Create a Pull Request (PR)
+
+> A pull request is how you suggest merging your changes back into the main branch.
+
+- Click the **"Pull requests"** tab at the top.
+- Click **“New pull request”**.
+- Select your branch (`feature-readme-update`) to merge **into `main`**.
+- GitHub will show a comparison — check that everything looks good.
+- Click **“Create pull request”**.
+- Give your pull request a title and description.
+- Click **“Create pull request”** again.
+
+
+
+### 4️⃣ Merge Your Branch into Main
+
+- Once your pull request is open, scroll down and click **“Merge pull request”**.
+- Click **“Confirm merge”**.
+
+🚀 Congratulations — you’ve successfully used branching and merging!
+
+
 
 </details>
 
