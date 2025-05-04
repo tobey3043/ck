@@ -248,9 +248,10 @@ Use meaningful commit messages:
 ## 🛠️ Step 6: Write modular functions
 
 ### Step 6.1: clean your data
+Write a function to clean your data one of the cells of the Jupyter notebook.
 Write a function `clean_data.py` in `src`. 
 
-In `src/clean_data.py`:
+In both cases:
 - Load the dataset (`data/raw/student_habits_performance.csv`) using `pandas`
 - Handle missing values (e.g., drop rows with NaN)
 - Save the cleaned dataset to `data/clean/cleaned_data.csv`
@@ -264,7 +265,9 @@ If needed, install libraries using:
 >  ✨ Tip: Write clear function names and use code comments to describe what your functions do.
 
 ## 📊 Step 6.1: Visualize study  habits
-- Create src/plot_mydata.py
+- Create a function that visualizes study habits. Do it again, first in the cell of the Jupyter notebook. Then create a file src/plot_mydata.py for it.
+
+In both cases:
 - Use `matplotlib` to visualize study habits
 - Save your figure to results/study_habits.png
 - Include axis labels, a title, and a legend if needed
