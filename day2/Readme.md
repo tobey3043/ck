@@ -8,6 +8,10 @@ Today, we’ll dive into two hands-on exercises to sharpen your collaboration an
 
 # 🔧 Exercise 1: More Git
 
+
+<details>
+<summary>Optional - setting up a ssh key</summary>
+
 ## 🔐 Setting Up SSH for GitHub (Optional but Recommended)
 
 ### 0.1 🔍 Check for Existing SSH Keys
@@ -69,8 +73,7 @@ You should see a success message like:
 ```bash
 Hi your_username! You've successfully authenticated...
 ```
-
----
+</details>
 
 # 🛠️ Contributing to This Project (Step-by-Step)
 
