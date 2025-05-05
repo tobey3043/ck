@@ -4,6 +4,8 @@ This is the training respository for the JuDocs course for Research Software Eng
 
 # Outline (approximate)
 
+<details>
+<summary>Day 1</summary>
 
 ## 🗓️ **Day 1**
 
@@ -17,7 +19,11 @@ This is the training respository for the JuDocs course for Research Software Eng
 | Activity 3 (15 min) <br> Theory and activities: collaborating effectively using issues, branches, forks, pull requests, merges and code reviews | 11:10 – 11:45 | 0:35 |
 | **Wrap-up** | 11:45 – 12:00 | 0:15 |
 
----
+</details>
+
+<details>
+<summary>Day 2</summary>
+
 
 ## 🗓️ **Day 2**
 
@@ -32,7 +38,10 @@ This is the training respository for the JuDocs course for Research Software Eng
 | Thinking about the user: documentation, packaging, error messages, and more | 11:20 – 11:45 | 0:25 |
 | **Wrap-up** | 11:45 – 12:00 | 0:15 |
 
----
+</details>
+
+<details>
+<summary>Day 3</summary>
 
 ## 🗓️ **Day 3**
 
@@ -46,7 +55,10 @@ This is the training respository for the JuDocs course for Research Software Eng
 | A very quick introduction to Cx  <br> **Activity 2: CI/CD** (15min)| 11:00 – 11:35 | 0:35 |
 | **Wrap-up** | 11:35 – 12:00 | 0:25 |
 
----
+</details>
+
+<details>
+<summary>Day 4</summary>
 
 ## 🗓️ **Day 4**
 
@@ -62,6 +74,7 @@ This is the training respository for the JuDocs course for Research Software Eng
 | Pitches | 11:20 – 11:45 | 0:25 |
 | Feedback, Wrap-up, Farewell | 11:45 – 12:00 | 0:15 |
 
+</details>
 
 ## All material can be found [here]
 
