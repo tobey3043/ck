@@ -301,3 +301,5 @@ You will:
 - ✅ Creating and assigning a Pull Request
 - ✅ Reviewing and merging contributions
 </details>
+
+Collaborated with ck on Day 1 — we both like elephants!
